@@ -1,15 +1,15 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>{{ site.title }}</title>
+  <title>My Jekyll GitHub Page</title>
 </head>
 <body>
-  <h1>{{ page.title }}</h1>
-  <p>{{ content }}</p>
+  <h1>Welcome to my Jekyll GitHub Page</h1>
+  <p>This is an example of a basic index.html file for a Jekyll GitHub page.</p>
   <ul>
-    {% for page in site.pages %}
-      <li><a href="{{ page.url }}">{{ page.title }}</a></li>
-    {% endfor %}
+    <li><a href="/about">About</a></li>
+    <li><a href="/blog">Blog</a></li>
+    <li><a href="/contact">Contact</a></li>
   </ul>
 </body>
 </html>

@@ -1,8 +1,8 @@
 # Site settings
 title: My Website
-email: myemail@example.com
-description: A description of my website
-url: https://mywebsite.com
+email: mail.shulhan@gmail.com
+description: Gini aja cukup
+url: https://bukanmedium.github.io/Tes_gpt/
 
 # Build settings
 paginate: 10
@@ -23,8 +23,8 @@ plugins:
 # Navigation
 navigation:
   - title: Home
-    url: /
+    url: https://bukanmedium.github.io/Tes_gpt/
   - title: Blog
-    url: /blog/
+    url: https://bukanmedium.github.io/Tes_gpt/blog/
   - title: About
-    url: /about/
+    url: https://bukanmedium.github.io/Tes_gpt/about/

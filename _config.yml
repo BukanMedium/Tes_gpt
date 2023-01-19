@@ -17,6 +17,8 @@ exclude:
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-lazy-load-images
+
 
 # Navigation
 navigation:

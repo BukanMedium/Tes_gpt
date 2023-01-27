@@ -23,7 +23,7 @@ plugins:
 # Navigation
 navigation:
   - title: Home
-    url: https://bukanmedium.github.io/
+    url: https://bukanmedium.github.io/Tes_gpt
   - title: Blog
     url: https://bukanmedium.github.io/Tes_gpt/blog/
   - title: About

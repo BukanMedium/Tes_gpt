@@ -1,5 +1,5 @@
 # Site settings
-title: My Website
+title: Website Saya
 email: mail.shulhan@gmail.com
 description: Gini aja cukup
 url: https://bukanmedium.github.io/Tes_gpt/
@@ -23,7 +23,7 @@ plugins:
 # Navigation
 navigation:
   - title: Home
-    url: https://bukanmedium.github.io/Tes_gpt/
+    url: https://bukanmedium.github.io/
   - title: Blog
     url: https://bukanmedium.github.io/Tes_gpt/blog/
   - title: About
